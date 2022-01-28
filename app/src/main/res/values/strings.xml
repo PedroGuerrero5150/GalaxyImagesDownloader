@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proyecto6</string>
+    <string name="read_error">Unable to read photo data</string>
+    <string name="connect_error">Unable to connect to spacetelescope.org</string>
+</resources>
